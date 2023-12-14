@@ -4,7 +4,7 @@
 In this project I made a porfolio that presented my name, logo, links to sections: about me, my work and a contact section. I made the navigation scroll to the corresponding sections. In my "work" section, my first project is  larger than the rest. Also, the webpage has a responsive layout to be resized. 
 
 ## Repository
-Link to deployed code:
+Link to deployed code: https://freddylau815.github.io/freddylau_portfolio/
 
 ## Technologies
 
