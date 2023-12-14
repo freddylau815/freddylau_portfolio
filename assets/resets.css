@@ -1,0 +1,48 @@
+/* Global Resets */
+:root {
+    --primary-color: rgb(25, 25, 25);
+    --secondary-color: white;
+    --accent-color: palegreen;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Manrope', sans-serif;
+    /* letter-spacing: 1; */
+    
+}
+
+html, body {
+    height: 100%;
+}
+
+main {
+    flex: 1;
+    margin: 24px 48px;
+}
+
+a {
+    text-decoration: none;
+}
+/* Global Classes */
+
+.row, .column {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
